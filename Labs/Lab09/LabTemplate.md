@@ -10,9 +10,9 @@
    - Download Windows installer from:
    - Confirm installed in Windows:
 3. Linux C / C++ compiler
-   - Download Linux installer from:
-   - Confirm installed in Linux:
-4. Browser based compiler for C / C++:
+   - Download Linux installer from: sudo apt install gcc
+   - Confirm installed in Linux: gcc command functions and doesnt tell you to install it
+4. Browser based compiler for C / C++: 
 5. Command(s) to compile the source code into an executable program:
 6. Command(s) to execute the program:
 
